@@ -6,7 +6,7 @@ Most of the work on here is previous school assignments, but I hope to make some
 
 
 ## Tools I've used and tested out
-HTML, CSS, JavaScript, TypeScript, ReactJs, NextJs, PHP, Laravel, C#, .NET CORE, Wordpress, Filezilla, SQLite, MYSQL, SQL Server, Supabase, figma, tailwind, sanity, dato, graphql
+HTML, CSS, JavaScript, TypeScript, ReactJs, NextJs, PHP, Laravel, C#, .NET CORE, Wordpress, Filezilla, SQLite, MYSQL, SQL Server, Supabase, figma, tailwind, sanity, dato & graphql
 
 
 ## Links
