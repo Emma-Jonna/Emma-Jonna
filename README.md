@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋 I'm Johanna
+
+## About me
+I'm currently studying to become a fullstack web developer at Yrgo in Gothenburg Sweden.\
+Most of the work on here is previous school assignments, but I hope to make some more personal projects.\
+
+
+## Tools I've used and tested out
+HTML, CSS, JavaScript, TypeScript, ReactJs, NextJs, PHP, Laravel, C#, .NET CORE, Wordpress, Filezilla, SQLite, MYSQL, SQL Server, Supabase, figma, tailwind, sanity, dato, graphql\
+
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/johanna-pihl-59a31214a/)
+<br/><br/>
 
 <!--
 **Emma-Jonna/Emma-Jonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
