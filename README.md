@@ -9,7 +9,6 @@ Most of the work on here is previous school assignments, but I hope to make some
 HTML, CSS, JavaScript, TypeScript, React.Js, Next.Js, PHP, Laravel, C#, ASP .NET Core, Wordpress, Filezilla, Svelte, SQLite, MYSQL, SQL Server, Supabase, Figma, Tailwind, Git, Node, Sanity, Dato & Graphql
 
 
-
 <!--
 **Emma-Jonna/Emma-Jonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
